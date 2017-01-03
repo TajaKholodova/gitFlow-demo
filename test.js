@@ -1,4 +1,3 @@
-
 function test() {
-//do something
+    //do something
 }
