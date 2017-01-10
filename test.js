@@ -9,3 +9,7 @@ console.log('fix hol-123');
 console.log('taja fix')
 console.log('taja feature')
 console.log('stabilization');
+
+console.log('a direct commit to develop');
+	console.log('my fancy feature on feature branch')
+	console.log(stabiliyation)
