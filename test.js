@@ -11,3 +11,4 @@ console.log('taja feature')
 console.log('stabilization');
 
 console.log('a direct commit to develop');
+	console.log('my fancy feature on feature branch')
