@@ -14,3 +14,4 @@ console.log('a direct commit to develop');
 	console.log('my fancy feature on feature branch')
 	console.log(stabiliyation)
 console.log(stabiliyation)
+console.log(stabiliyation)
