@@ -16,3 +16,4 @@ console.log('a direct commit to develop');
 console.log(stabiliyation)
 console.log(stabiliyation)
 console.log(stabiliyation 17-03)
+console.log(worker);
